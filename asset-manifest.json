@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sadd-lolhs/static/css/main.6e28675c.css",
-    "main.js": "/sadd-lolhs/static/js/main.a57e966f.js",
+    "main.js": "/sadd-lolhs/static/js/main.48020f5e.js",
     "static/media/himani.png": "/sadd-lolhs/static/media/himani.056f03526a00a62b7989.png",
     "static/media/deeya.png": "/sadd-lolhs/static/media/deeya.5937fbb52fea2f529a92.png",
     "static/media/mrs. mulder.png": "/sadd-lolhs/static/media/mrs. mulder.70e835119f2956e085c1.png",
@@ -16,10 +16,10 @@
     "static/media/topsvg.svg": "/sadd-lolhs/static/media/topsvg.c37bc005ae5f1aea2a992c29f7ba9765.svg",
     "index.html": "/sadd-lolhs/index.html",
     "main.6e28675c.css.map": "/sadd-lolhs/static/css/main.6e28675c.css.map",
-    "main.a57e966f.js.map": "/sadd-lolhs/static/js/main.a57e966f.js.map"
+    "main.48020f5e.js.map": "/sadd-lolhs/static/js/main.48020f5e.js.map"
   },
   "entrypoints": [
     "static/css/main.6e28675c.css",
-    "static/js/main.a57e966f.js"
+    "static/js/main.48020f5e.js"
   ]
 }
