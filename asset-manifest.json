@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sadd-lolhs/static/css/main.6e28675c.css",
+    "main.js": "/sadd-lolhs/static/js/main.9fc713e8.js",
+    "static/media/himani.png": "/sadd-lolhs/static/media/himani.056f03526a00a62b7989.png",
+    "static/media/deeya.png": "/sadd-lolhs/static/media/deeya.5937fbb52fea2f529a92.png",
+    "static/media/mrs. mulder.png": "/sadd-lolhs/static/media/mrs. mulder.70e835119f2956e085c1.png",
+    "static/media/jumana.png": "/sadd-lolhs/static/media/jumana.4203415ae8a89b4f277c.png",
+    "static/media/revathy.png": "/sadd-lolhs/static/media/revathy.1b2579f06985ff869817.png",
+    "static/media/arman.png": "/sadd-lolhs/static/media/arman.fdcc3a9d819bb6ea5009.png",
+    "static/media/madeline.png": "/sadd-lolhs/static/media/madeline.21b78a38fbeec16cb3c6.png",
+    "static/media/ud_living.svg": "/sadd-lolhs/static/media/ud_living.31d6c8481371688d359d66308bede78e.svg",
+    "static/media/ud_mindfulness.svg": "/sadd-lolhs/static/media/ud_mindfulness.ea155b196e7f59ad9a5efd856859c481.svg",
+    "static/media/ud_join.svg": "/sadd-lolhs/static/media/ud_join.d9fb71b0ade834d351bb78caef4f8ae2.svg",
+    "static/media/botsvg.svg": "/sadd-lolhs/static/media/botsvg.d8a558c22104cb06125639c1c25c332c.svg",
+    "static/media/topsvg.svg": "/sadd-lolhs/static/media/topsvg.c37bc005ae5f1aea2a992c29f7ba9765.svg",
+    "index.html": "/sadd-lolhs/index.html",
+    "main.6e28675c.css.map": "/sadd-lolhs/static/css/main.6e28675c.css.map",
+    "main.9fc713e8.js.map": "/sadd-lolhs/static/js/main.9fc713e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e28675c.css",
+    "static/js/main.9fc713e8.js"
+  ]
+}
