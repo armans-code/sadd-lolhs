@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'oswald';
+	src: url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+}
+
+@font-face {
+	font-family: 'Open\\ Sans';
+	src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+}
