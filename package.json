@@ -1,4 +1,5 @@
 {
+	"homepage": "https://armans-code.github.io/sadd-lolhs",
 	"name": "client",
 	"proxy": "http://localhost:8080",
 	"version": "0.1.0",
@@ -16,6 +17,7 @@
 		"@types/react": "^18.0.9",
 		"@types/react-dom": "^18.0.5",
 		"aos": "^2.3.4",
+		"gh-pages": "^4.0.0",
 		"react": "^18.1.0",
 		"react-dom": "^18.1.0",
 		"react-router-dom": "^6.3.0",
@@ -24,6 +26,8 @@
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
