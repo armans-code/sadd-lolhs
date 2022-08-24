@@ -1,5 +1,5 @@
 {
-	"homepage": "https://armans-code.github.io/sadd-lolhs",
+	"homepage": "http://saddlolhs.com",
 	"name": "client",
 	"proxy": "http://localhost:8080",
 	"version": "0.1.0",
