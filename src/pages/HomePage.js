@@ -42,6 +42,7 @@ function HomePage() {
 								Welcome to our SADD Chapter!
 							</h1>
 							<p class='leading-normal text-2xl mb-8'>
+								Our&nbsp;
 								<a
 									href='https://www.sadd.org/'
 									target='_blank'
@@ -50,9 +51,9 @@ function HomePage() {
 								>
 									SADD
 								</a>
-								's mission is to empower young people to successfully confront
-								the risks and pressures that challenge them throughout their
-								daily lives.
+								&nbsp;Club aims to foster a safe space for education on
+								stigmatized issues to help students learn more and better
+								themselves.
 							</p>
 							<a
 								href='https://forms.gle/XQk7i2hoQTz61m7r7'
@@ -158,15 +159,13 @@ function HomePage() {
 						</h1>
 
 						<GoalCard
-							title='Spread Awareness on Issues'
-							desc='SADD Club aims to foster a safe space for education on
-										stigmatized issues to help students learn more and better
-										themselves.'
+							title='Empower positive change'
+							desc='Empower young people to successfully confront the risks and pressures that challenge them throughout their daily lives.'
 							number='1'
 						/>
 
 						<GoalCard
-							title='Gain skills & Encourage Well-being'
+							title='Promote leadership & collaboration'
 							desc='Students gain critical leadership and organizational skills
 								  		in a manner that emphasizes community engagement and
 								  		well-being.'
