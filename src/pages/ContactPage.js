@@ -34,7 +34,7 @@ function ContactPage() {
 
 						<div className='bg-gray-100 rounded-lg transition-all duration-300 hover:shadow-lg'>
 							<h1 class='text-6xl font-light tracking-wide bg-gray-500 mt-8 p-4 gradient_text '>
-								@lolhsadd22
+								@lolhssadd
 							</h1>
 						</div>
 					</div>
