@@ -70,12 +70,12 @@ function ContactPage() {
 						image={revathy}
 						role='Vice President'
 					/>
-					<ContactCard name='Himani Patel' image={himani} role='Secretary' />
 					<ContactCard
 						name='Madeline Reynolds'
 						image={madeline}
 						role='Treasurer'
 					/>
+					<ContactCard name='Himani Patel' image={himani} role='Secretary' />
 					<ContactCard
 						name='Arman Kumaraswamy'
 						image={arman}
