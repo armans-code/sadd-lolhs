@@ -4,6 +4,7 @@ import './App.css';
 import Layout from './components/Layout';
 import ContactPage from './pages/ContactPage';
 import HomePage from './pages/HomePage';
+import MeetTheTeam from './pages/MeetTheTeam';
 import PageNotFound from './pages/PageNotFound';
 import ProjectsPage from './pages/ProjectsPage';
 import ResourcesPage from './pages/ResourcesPage';
@@ -17,6 +18,7 @@ function App() {
 					<Route path='/' element={<HomePage />} />
 					<Route path='/resources' element={<ResourcesPage />} />
 					<Route path='/projects' element={<ProjectsPage />} />
+					<Route path='/team' element={<MeetTheTeam />} />
 					<Route path='/contact' element={<ContactPage />} />
 				</Routes>
 			</Layout>

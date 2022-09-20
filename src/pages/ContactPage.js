@@ -19,8 +19,8 @@ function ContactPage() {
 		AOS.refresh();
 	}, []);
 	return (
-		<div class='flex flex-col mt-24 items-center'>
-			<div data-aos='fade-up'>
+		<div className='flex flex-col items-center justify-between h-screen'>
+			<div data-aos='fade-up' className='mt-28'>
 				<div class='flex flex-wrap justify-center text-center mb-24'>
 					<div class='w-full lg:w-6/12 px-4'>
 						<h1 class='text-gray-900 text-4xl font-bold mb-8'>
@@ -32,62 +32,42 @@ function ContactPage() {
 							receive updates about meeting times.
 						</p>
 
-						<div className='bg-gray-100 rounded-lg transition-all duration-300 hover:shadow-lg'>
-							<h1 class='text-6xl font-light tracking-wide bg-gray-500 mt-8 p-4 gradient_text '>
-								@lolhssadd
-							</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div
-				data-aos='fade-up'
-				data-aos-delay='400'
-				class='container max-w-7xl px-4 flex flex-col items-center'
-			>
-				{/* <!-- Section Header --> */}
-				<div class='flex flex-wrap justify-center text-center mb-24'>
-					<div class='w-full lg:w-6/12 px-4'>
-						{/* <!-- Header --> */}
-						<h1 class='text-gray-900 text-4xl font-bold mb-8'>Meet the Team</h1>
+						<a
+							href='https://www.remind.com/classes/lolhssadd'
+							target='_blank'
+							rel='noopener noreferrer'
+							className='rounded-full'
+						>
+							<div className='bg-gray-100 rounded-lg transition-all duration-300 hover:shadow-lg'>
+								<h1 class='text-6xl font-light tracking-wide bg-gray-500 mt-8 p-4 gradient_text '>
+									@lolhssadd
+								</h1>
+							</div>
+						</a>
+						<h1 class='text-gray-900 text-4xl font-bold mb-8 mt-24'>
+							Join the Instagram
+						</h1>
 
-						{/* <!-- Description --> */}
 						<p class='text-gray-700 text-lg font-light'>
-							With an amazing sponsor and six well-skilled and experienced
-							members, Land O' Lakes High School's SADD chapter has a great
-							team.
+							Follow our chapter's Instagram account for updates and photos!
 						</p>
+
+						<a
+							href='https://www.instagram.com/lolhs_sadd/'
+							target='_blank'
+							rel='noopener noreferrer'
+							className='rounded-full'
+						>
+							<div className='bg-gray-100 rounded-lg transition-all duration-300 hover:shadow-lg'>
+								<h1 class='text-6xl font-light tracking-wide bg-gray-500 mt-8 p-4 instagram_text '>
+									@sadd_lolhs
+								</h1>
+							</div>
+						</a>
 					</div>
 				</div>
-
-				<ContactCard name='Mrs. Mulder' role='Club Sponsor' image={mulder} />
-
-				{/* members */}
-				<div class='flex flex-wrap justify-center'>
-					<ContactCard name='Jumana Ahmed' image={jumana} role='President' />
-					<ContactCard
-						name='Revathy Nateshan'
-						image={revathy}
-						role='Vice President'
-					/>
-					<ContactCard
-						name='Madeline Reynolds'
-						image={madeline}
-						role='Treasurer'
-					/>
-					<ContactCard name='Himani Patel' image={himani} role='Secretary' />
-					<ContactCard
-						name='Arman Kumaraswamy'
-						image={arman}
-						role='Chief Technology Officer'
-					/>
-					<ContactCard
-						name='Deeya Patel'
-						image={deeya}
-						role='Social Media/Outreach Manager'
-					/>
-				</div>
 			</div>
+
 			<Footer />
 		</div>
 	);

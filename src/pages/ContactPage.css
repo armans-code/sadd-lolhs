@@ -4,8 +4,14 @@
 	-webkit-background-clip: text;
 	background-size: 400% 400%;
 	color: transparent;
-	animation: gradient 15s ease infinite;
-	-webkit-animation: gradient 15s ease infinite;
+}
+
+.instagram_text {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e);
+	background-clip: text;
+	-webkit-background-clip: text;
+	background-size: 400% 400%;
+	color: transparent;
 }
 
 @keyframes gradient {

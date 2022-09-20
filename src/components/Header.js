@@ -127,6 +127,18 @@ function Header() {
 							</li>
 							<li class='mr-3'>
 								<NavLink
+									to='/team'
+									className={({ isActive }) =>
+										isActive
+											? 'inline-block py-2 px-4 underline'
+											: `inline-block hover:${hoverStyle} py-2 px-4`
+									}
+								>
+									Meet the Team
+								</NavLink>
+							</li>
+							<li class='mr-3'>
+								<NavLink
 									to='/contact'
 									className={({ isActive }) =>
 										isActive
