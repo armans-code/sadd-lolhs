@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca88e506.css",
-    "main.js": "/static/js/main.678b9186.js",
+    "main.css": "/static/css/main.e143d6c0.css",
+    "main.js": "/static/js/main.b634db99.js",
     "static/media/himani.png": "/static/media/himani.056f03526a00a62b7989.png",
+    "static/media/people_mask.png": "/static/media/people_mask.d2f5f4797c85dbe6a64e.png",
+    "static/media/rrb_trim.png": "/static/media/rrb_trim.81bb0748cd0b6216f6a8.png",
     "static/media/deeya.png": "/static/media/deeya.5937fbb52fea2f529a92.png",
     "static/media/mrs. mulder.png": "/static/media/mrs. mulder.70e835119f2956e085c1.png",
     "static/media/jumana.png": "/static/media/jumana.4203415ae8a89b4f277c.png",
+    "static/media/hold_poster.png": "/static/media/hold_poster.5be53f2baf7dbf2dc23d.png",
     "static/media/revathy.png": "/static/media/revathy.1b2579f06985ff869817.png",
     "static/media/arman.png": "/static/media/arman.fdcc3a9d819bb6ea5009.png",
     "static/media/madeline.png": "/static/media/madeline.21b78a38fbeec16cb3c6.png",
@@ -17,11 +20,11 @@
     "static/media/botsvg.svg": "/static/media/botsvg.d8a558c22104cb06125639c1c25c332c.svg",
     "static/media/topsvg.svg": "/static/media/topsvg.c37bc005ae5f1aea2a992c29f7ba9765.svg",
     "index.html": "/index.html",
-    "main.ca88e506.css.map": "/static/css/main.ca88e506.css.map",
-    "main.678b9186.js.map": "/static/js/main.678b9186.js.map"
+    "main.e143d6c0.css.map": "/static/css/main.e143d6c0.css.map",
+    "main.b634db99.js.map": "/static/js/main.b634db99.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca88e506.css",
-    "static/js/main.678b9186.js"
+    "static/css/main.e143d6c0.css",
+    "static/js/main.b634db99.js"
   ]
 }
