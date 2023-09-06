@@ -6,7 +6,6 @@ import himani from '../images/contact/himani.png';
 import arman from '../images/contact/arman.png';
 import deeya from '../images/contact/deeya.png';
 import madeline from '../images/contact/madeline.png';
-import mulder from '../images/contact/mrs. mulder.png';
 import Footer from '../components/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -39,7 +38,7 @@ function MeetTheTeam() {
 					</div>
 				</div>
 
-				<ContactCard name='Mrs. Mulder' role='Club Sponsor' image={mulder} />
+				{/* <ContactCard name='Ms. Smith' role='Club Sponsor' /> */}
 
 				{/* members */}
 				<div class='flex flex-wrap justify-center'>

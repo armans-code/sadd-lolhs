@@ -113,7 +113,7 @@ function Header() {
 									Resources
 								</NavLink>
 							</li>
-							<li class='mr-3'>
+							{/* <li class='mr-3'>
 								<NavLink
 									to='/projects'
 									className={({ isActive }) =>
@@ -124,7 +124,7 @@ function Header() {
 								>
 									Projects
 								</NavLink>
-							</li>
+							</li> */}
 							<li class='mr-3'>
 								<NavLink
 									to='/team'
@@ -151,7 +151,7 @@ function Header() {
 							</li>
 						</ul>
 						<a
-							href='https://forms.gle/XQk7i2hoQTz61m7r7'
+							href='https://docs.google.com/forms/d/e/1FAIpQLSd2JLY2ILPPCZ01OwfCs1VxEerqMeFMxEnlHxNDl3wJCRBKnQ/viewform'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='rounded-full'

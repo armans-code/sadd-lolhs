@@ -59,7 +59,7 @@ function HomePage() {
                                 learn more and better themselves.
                             </p>
                             <a
-                                href="https://forms.gle/XQk7i2hoQTz61m7r7"
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSd2JLY2ILPPCZ01OwfCs1VxEerqMeFMxEnlHxNDl3wJCRBKnQ/viewform"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="rounded-full bg-blue-500"
@@ -144,27 +144,16 @@ function HomePage() {
                                         High School. If you click below, you
                                         will redirected to a Google Form, in
                                         which you can enter your name, grade,
-                                        student number, etc. Additionally,{' '}
-                                        <u>please join the Remind class,</u>{' '}
-                                        where meeting updates will be sent. The
-                                        remind code can be found in the{' '}
-                                        <NavLink
-                                            className="text-pink-500 underline"
-                                            to="/contact"
-                                        >
-                                            contact page
-                                        </NavLink>
-                                        .
+                                        student number, etc.
                                         <br />
                                         <br />
-                                        Google Form Registration Link:&nbsp;
                                         <a
-                                            href="https://forms.gle/XQk7i2hoQTz61m7r7"
+                                            href="https://docs.google.com/forms/d/e/1FAIpQLSd2JLY2ILPPCZ01OwfCs1VxEerqMeFMxEnlHxNDl3wJCRBKnQ/viewform"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="text-pink-500 underline"
                                         >
-                                            forms.gle/XQk7i2hoQTz61m7r7
+                                            Google Form Registration Link
                                         </a>
                                     </p>
                                 </div>
