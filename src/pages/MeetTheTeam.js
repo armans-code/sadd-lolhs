@@ -6,6 +6,7 @@ import himani from '../images/contact/himani.png';
 import arman from '../images/contact/arman.png';
 import deeya from '../images/contact/deeya.png';
 import madeline from '../images/contact/madeline.png';
+import ms_smith from '../images/contact/ms_smith.png';
 import Footer from '../components/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -24,7 +25,7 @@ function MeetTheTeam() {
 				class='container max-w-7xl px-4 flex flex-col items-center'
 			>
 				{/* <!-- Section Header --> */}
-				<div class='flex flex-wrap justify-center text-center mb-24'>
+				<div class='flex flex-wrap justify-center text-center mb-8'>
 					<div class='w-full lg:w-6/12 px-4'>
 						{/* <!-- Header --> */}
 						<h1 class='text-gray-900 text-4xl font-bold mb-8'>Meet the Team</h1>
@@ -38,7 +39,7 @@ function MeetTheTeam() {
 					</div>
 				</div>
 
-				{/* <ContactCard name='Ms. Smith' role='Club Sponsor' /> */}
+				<ContactCard name='Ms. Smith' role='Club Sponsor' image={ms_smith} />
 
 				{/* members */}
 				<div class='flex flex-wrap justify-center'>
